@@ -1,0 +1,157 @@
+
+    {
+      "profile_sportif": [
+        {
+          "id": 0,
+          "age": 56,
+          "nom": "Casey Rodgers",
+          "poid": 110.92,
+          "sexe": "femme",
+          "taille": 1.93,
+          "masse_musculaire": 45.659749999999995,
+          "nécessité_eau_en_litre": "2.8638000000000003     litre",
+          "type_régime": "végétarien", 
+          "programme_alimentaireId":0,
+          "type_entrainement":"cardio",
+          "programme_entrainementId":1
+
+        },
+     
+        {
+          "id": 1,
+          "age": 21,
+          "nom": "Bernard Johnson",
+          "poid": 79.03,
+          "sexe": "homme",
+          "taille": 1.74,
+          "masse_musculaire": 32.62979,
+          "nécessité_eau_en_litre": "2.38545     litre",
+          "type_régime": "hyperprotéine", 
+          "programme_alimentaireId":1,
+          "type_entrainement":"crossfit",
+          "programme_entrainementId":0
+        },
+     
+        {
+          "id": 2,
+          "age": 26,
+          "nom": "Alba Barron",
+          "poid": 47.89,
+          "sexe": "homme",
+          "taille": 1.73,
+          "masse_musculaire": 19.953139999999998,
+          "nécessité_eau_en_litre": "1.91835     litre",
+          "type_régime": "sans sel", 
+          "programme_alimentaireId":2,
+          "type_entrainement":"circuit",
+          "programme_entrainementId":3
+        },
+     
+        {
+          "id": 3,
+          "age": 55,
+          "nom": "Mills Olson",
+          "poid": 112.97,
+          "sexe": "femme",
+          "taille": 1.63,
+          "masse_musculaire": 46.413999999999994,
+          "nécessité_eau_en_litre": "2.89455     litre",
+          "type_régime": "hypocalorique", 
+          "programme_alimentaireId":3,
+          "type_entrainement":"fonctionnel",
+          "programme_entrainementId":2
+        },
+     
+        {
+          "id": 4,
+          "age": 22,
+          "nom": "Twila Jefferson",
+          "poid": 81.44,
+          "sexe": "femme",
+          "taille": 1.64,
+          "masse_musculaire": 33.58396,
+          "nécessité_eau_en_litre": "2.4215999999999998     litre",
+          "type_régime": "végétarien", 
+          "programme_alimentaireId":0,
+          "type_entrainement":"circuit",
+          "programme_entrainementId":3
+        },
+      
+        {
+          "id": 5,
+          "age": 58,
+          "nom": "Beulah Knight",
+          "poid": 92.46,
+          "sexe": "homme",
+          "taille": 1.66,
+          "masse_musculaire": 38.07443999999999,
+          "nécessité_eau_en_litre": "2.5868999999999995     litre",
+          "type_régime": "hyperprotéine", 
+          "programme_alimentaireId":1,
+          "type_entrainement":"cardio",
+          "programme_entrainementId":1
+        },
+      
+        {
+          "id": 6,
+          "age": 23,
+          "nom": "Renee Abbott",
+          "poid": 78.41,
+          "sexe": "homme",
+          "taille": 1.91,
+          "masse_musculaire": 32.42284,
+          "nécessité_eau_en_litre": "2.37615     litre",
+          "type_régime": "sans sel", 
+          "programme_alimentaireId":0,
+          "type_entrainement":"fonctionnel",
+          "programme_entrainementId":2
+        },
+      
+        {
+          "id": 7,
+          "age": 33,
+          "nom": "Dickson Owens",
+          "poid": 109.26,
+          "sexe": "homme",
+          "taille": 1.81,
+          "masse_musculaire": 44.95209,
+          "nécessité_eau_en_litre": "2.8389     litre",
+          "type_régime": "hypocalorique", 
+          "programme_alimentaireId":0,
+          "type_entrainement":"crossfit",
+          "programme_entrainementId":0
+        },
+      
+        {
+          "id": 8,
+          "age": 21,
+          "nom": "Savannah Travis",
+          "poid": 79.96,
+          "sexe": "homme",
+          "taille": 1.91,
+          "masse_musculaire": 33.053689999999996,
+          "nécessité_eau_en_litre": "2.3993999999999995     litre",
+          "type_régime": "sans sel", 
+          "programme_alimentaireId":2,
+          "type_entrainement":"cardio",
+          "programme_entrainementId":1
+        },
+      
+   
+        {
+          "id": 9,
+          "age": 31,
+          "nom": "Dianna Molina",
+          "poid": 114.03,
+          "sexe": "homme",
+          "taille": 1.77,
+          "masse_musculaire": 46.882799999999996,
+          "nécessité_eau_en_litre": "2.91045     litre",
+          "type_régime": "végétarien", 
+          "programme_alimentaireId":0,
+          "type_entrainement":"circuit",
+          "programme_entrainementId":3
+        }
+      
+    ]}
+  
